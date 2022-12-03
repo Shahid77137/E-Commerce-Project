@@ -165,7 +165,7 @@ https://github.com/Shahid77137/E-Commerce-Project
 
 ---
 
-<img src="" alt="Payment Success Page" width="100%" height="550">
+<img src="./E-Commerce_Frontend/src/Images/Payment_Success_page.png" alt="Payment Success Page" width="100%" height="550">
 
 ---
 
@@ -184,5 +184,5 @@ Your valuable feedback is greatly appreciated. You can reach out to me via below
 - [Masai School](https://www.masaischool.com/)
 ---
 <hr>
-<h1 align="center">THANK YOU FOR VISITING Our Website</h1>
+<h1 align="center">THANK YOU FOR VISITING OUR WEBSITE</h1>
 
