@@ -153,8 +153,8 @@ https://github.com/Shahid77137/E-Commerce-Project
 ---
 
 <div style="display: flex;  margin-top: 50;">
-  <img src="" alt="Payment Verification" width="410" height="550" style="margin-right: 20">
-  <img src="" alt="Payment Method" width="410" height="550">
+  <img src="./E-Commerce_Frontend/src/Images/Payment_Varification_page.png" alt="Payment Verification" width="410" height="550" style="margin-right: 20">
+  <img src="./E-Commerce_Frontend/src/Images/Payment_Methode_page.png" alt="Payment Method" width="410" height="550">
   
 </div>
 
