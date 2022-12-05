@@ -140,9 +140,9 @@ https://github.com/Shahid77137/E-Commerce-Project
 ---
 
 <div style="display: flex;  margin-top: 50;">
-  <img src="" alt="CartPage" width="270" height="550" style="margin-right: 20">
-  <img src="" alt="DeliveryAddress" width="270" height="550">
-  <img src="" alt="OrderSummary" width="270" height="550">
+  <img src="./E-Commerce_Frontend/src/Images/Cart_page.png" alt="CartPage" width="270" height="550" style="margin-right: 20">
+  <img src="./E-Commerce_Frontend/src/Images/Delivary_Address_page.png" alt="DeliveryAddress" width="270" height="550">
+  <img src="./E-Commerce_Frontend/src/Images/Order_Summery_page.png" alt="OrderSummary" width="270" height="550">
 </div>
 
 
