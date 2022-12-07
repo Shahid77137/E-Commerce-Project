@@ -182,6 +182,7 @@ Your valuable feedback is greatly appreciated. You can reach out to me via below
 
 ## 📝 Acknowledgements
 - [Masai School](https://www.masaischool.com/)
+---
 <hr>
-<h1 align="center">THANK YOU FOR VISITING</h1>
+<h1 align="center">THANK YOU FOR VISITING Our Website</h1>
 
