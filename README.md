@@ -178,5 +178,10 @@ Your valuable feedback is greatly appreciated. You can reach out to me via below
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-afridi-40ab93241/)
 
+---
 
+## 📝 Acknowledgements
+- [Masai School](https://www.masaischool.com/)
+<hr>
+<h1 align="center">THANK YOU FOR VISITING</h1>
 
