@@ -169,3 +169,14 @@ https://github.com/Shahid77137/E-Commerce-Project
 
 ---
 
+## 🌟Feedback
+Your valuable feedback is greatly appreciated. You can reach out to me via below medium
+
+
+
+- [Shahid](https://shahid77137.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-afridi-40ab93241/)
+
+
+
