@@ -140,9 +140,9 @@ https://github.com/Shahid77137/E-Commerce-Project
 ---
 
 <div style="display: flex;  margin-top: 50;">
-  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/CartPage.png" alt="CartPage" width="270" height="550" style="margin-right: 20">
-  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/DeliveryAddressPage.png" alt="DeliveryAddress" width="270" height="550">
-  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/OrderSummaryPage.png" alt="OrderSummary" width="270" height="550">
+  <img src="" alt="CartPage" width="270" height="550" style="margin-right: 20">
+  <img src="" alt="DeliveryAddress" width="270" height="550">
+  <img src="" alt="OrderSummary" width="270" height="550">
 </div>
 
 
@@ -165,7 +165,7 @@ https://github.com/Shahid77137/E-Commerce-Project
 
 ---
 
-<img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/PaymentSucessPage.png" alt="Payment Success Page" width="100%" height="550">
+<img src="" alt="Payment Success Page" width="100%" height="550">
 
 ---
 
