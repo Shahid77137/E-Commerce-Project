@@ -88,4 +88,6 @@ https://github.com/Shahid77137/E-Commerce-Project
 
 - **Order Management System** : Offers a platform for customers to place, view, cancel orders, make payments, and track order status including delivery, pickup, return, and replacement.
 
+- **Payment Method Management** : Allows administrators to add, revoke, and manage available payment methods.
 
+- **Sales and Revenue Reporting** : Enables generation and viewing of sales and revenue reports including top-selling and least-selling products, highest sold products by rating and price, and sales made in different time periods.
