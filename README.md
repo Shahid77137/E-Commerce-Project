@@ -77,3 +77,11 @@ https://github.com/Shahid77137/E-Commerce-Project
 - **Token-Based Auth and Authorization** : Enables authentication and authorization through the use of JSON Web Tokens (JWT) with Spring Security.
 
 - **Role-Based Access Control** : Implements role-specific access control to restrict resource access to authorized users.
+
+- **Security Measures** : Incorporates security measures such as JWT token expiration after 20 minutes and restricted admin registration to maintain system security.
+
+- **Database Administration** : Provides administration tools for managing the database.
+
+- **Product Categorization** : Implements product categorization for improved browsing experience.
+
+
