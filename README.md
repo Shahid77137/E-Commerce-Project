@@ -65,3 +65,11 @@ https://github.com/Shahid77137/E-Commerce-Project
 - **Hypermedia Navigation** : Integrates Spring HateOAS for facilitating user navigation through the provision of hypermedia links.
 
 - **Data Retrieval** : Includes functionality for pagination, filtering, sorting, and searching for products, reviews, and feedback.
+
+- **Efficient Data Transfer** : Uses optimized transfer objects to enhance performance in both HTTP requests and responses.
+
+- **JSON API Responses** : Returns all requests in a JSON format, ensuring consistent data representation.
+
+- **Customized Exception Handling** : Implements customized exception handling for improved user experience and error messaging.
+
+
