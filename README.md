@@ -62,4 +62,6 @@ https://github.com/Shahid77137/E-Commerce-Project
 
 - **Data Mapping** : Employs object mapping to enable data exchange between client and server through mapping entities to transfer objects.
 
+- **Hypermedia Navigation** : Integrates Spring HateOAS for facilitating user navigation through the provision of hypermedia links.
 
+- **Data Retrieval** : Includes functionality for pagination, filtering, sorting, and searching for products, reviews, and feedback.
