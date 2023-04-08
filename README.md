@@ -58,5 +58,8 @@ https://github.com/Shahid77137/E-Commerce-Project
 
 - **Human-Readable URIs** : Uses user-friendly URIs for improved usability.
 
+- **Image Handling** : Supports image upload and retrieval for customers, products, reviews, and feedback.
+
+- **Data Mapping** : Employs object mapping to enable data exchange between client and server through mapping entities to transfer objects.
 
 
