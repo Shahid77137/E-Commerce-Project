@@ -51,4 +51,12 @@ https://github.com/Shahid77137/E-Commerce-Project
 - MODEL MAPPER
 - SWAGGER
 
+## Features
+
+- **RESTful API Design** : Adheres to REST architectural principles, providing a set of CRUD endpoints accessible via standard HTTP methods (GET, POST, PUT, DELETE).
+- **Modular Architecture** : Designed with well-defined modules, facilitating clear separation of concerns for easier maintenance and scalability.
+
+- **Human-Readable URIs** : Uses user-friendly URIs for improved usability.
+
+
 
