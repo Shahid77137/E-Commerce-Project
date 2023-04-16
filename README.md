@@ -30,6 +30,9 @@ https://github.com/Shahid77137/E-Commerce-Project
 - MAVEN
 - MYSQL
 - POSTMAN
+- REACT JS
+- TAILWIND CSS
+- VERCEL
 
 
 
