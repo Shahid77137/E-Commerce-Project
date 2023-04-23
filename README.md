@@ -21,5 +21,15 @@ https://femsha-shop-website.vercel.app/
 https://github.com/Shahid77137/E-Commerce-Project
 
 
+## Tech Stack
+
+- JAVA
+- SPRING
+- SPRINGBOOT
+- HIBERNATE
+- MAVEN
+- MYSQL
+- POSTMAN
+
 
 
