@@ -8,6 +8,8 @@ Security is a top priority, as the API leverages Spring Security and JSON Web To
 
 The API's modular architecture promotes adaptability and ease of development, seamlessly connecting entities and Data Transfer Objects (DTOs). This mechanism streamlines the creation of custom DTOs for HTTP requests and responses, ensuring a standardized and user-friendly experience. Hypermedia links, facilitated by the Spring Hypermedia as the Engine of Application State (HATEOAS) library, enhance user navigation and accessibility.
 
+Additional functionalities, including pagination, filtering, sorting, and searching, contribute to efficient data handling and retrieval. The provision of self, collections, and paging hypermedia links further improves user interaction and workflow. To simplify management, the API generates an admin interface that allows for easy oversight and control of the e-commerce platform.
+
 
 
 # Shop With FemSha
