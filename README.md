@@ -6,6 +6,8 @@ The Spring Boot-based e-commerce API is a robust solution that adheres to the pr
 
 Security is a top priority, as the API leverages Spring Security and JSON Web Tokens (JWT) to facilitate secure user authentication and role-based access control. This guarantees that only authorized users can access sensitive data and perform permitted actions. Furthermore, the incorporation of Hibernate Validator enforces data integrity and constraints across all HTTP requests and payloads, maintaining the validity and consistency of data throughout the application. Custom validation exceptions enhance error handling and user feedback.
 
+The API's modular architecture promotes adaptability and ease of development, seamlessly connecting entities and Data Transfer Objects (DTOs). This mechanism streamlines the creation of custom DTOs for HTTP requests and responses, ensuring a standardized and user-friendly experience. Hypermedia links, facilitated by the Spring Hypermedia as the Engine of Application State (HATEOAS) library, enhance user navigation and accessibility.
+
 
 
 # Shop With FemSha
