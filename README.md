@@ -4,6 +4,10 @@
 
 The Spring Boot-based e-commerce API is a robust solution that adheres to the principles of RESTful architecture while prioritizing scalability and seamless integration. Its standout feature lies in its comprehensive image management capabilities, encompassing the uploading, serving, and deletion of images across various entities such as customers, products, reviews, and feedback. This functionality ensures efficient space management on both the server and client sides, enhancing overall performance.
 
+Security is a top priority, as the API leverages Spring Security and JSON Web Tokens (JWT) to facilitate secure user authentication and role-based access control. This guarantees that only authorized users can access sensitive data and perform permitted actions. Furthermore, the incorporation of Hibernate Validator enforces data integrity and constraints across all HTTP requests and payloads, maintaining the validity and consistency of data throughout the application. Custom validation exceptions enhance error handling and user feedback.
+
+
+
 # Shop With FemSha
 
 ### website
