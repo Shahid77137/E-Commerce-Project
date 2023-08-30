@@ -1,0 +1,49 @@
+.carousel {
+  position: relative;
+  overflow: hidden;
+}
+  
+  .slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    width: 100%;
+  }
+  
+  .slide {
+    flex: 1;
+    height: 400px;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .slide.active {
+    opacity: 1;
+  }
+  
+  .slide.active ~ .slide {
+    transform: translateX(-100%);
+  }
+  
+  .indicators {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+  }
+  
+  .indicator {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin: 0 5px;
+    background-color: #ddd;
+    cursor: pointer;
+  }
+  
+  .indicator.active {
+    background-color: #555;
+  }
+  
