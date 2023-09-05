@@ -1,10 +1,10 @@
-# Shop With Zosh
+# Shop With FemSha
 
 ### website
-https://shopwithzosh.vercel.app/
+https://femsha-shop-website.vercel.app/
 
 ### server spring boot
-https://github.com/ashok0001/e-commerce-server
+https://github.com/Shahid77137/E-Commerce-Project
 
 
 
