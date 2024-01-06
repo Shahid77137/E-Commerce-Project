@@ -1,6 +1,8 @@
 # E-Commerce-Project
 
-![Untitled-2](https://camo.githubusercontent.com/0e53016e46ee54766bb3ac87bfff5b6f3e551834991e49e00785ea746620958f/68747470733a2f2f7465726977616c6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30342f47656e69657a7765622d372d322d6f6b2d31303234783533382e6a7067)
+<p align="center">
+  <img src="https://t4.ftcdn.net/jpg/03/06/69/49/360_F_306694930_S3Z8H9Qk1MN79ZUe7bEWqTFuonRZdemw.jpg" alt="logo" width="60%" height="500">
+</p>
 
 ## **WEB SERVICE : RESTFUL A.P.I.**
 
